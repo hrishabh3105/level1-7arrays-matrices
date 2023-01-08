@@ -762,15 +762,12 @@ Test case 2:
 >Output: <br>3<br>
 3 6<br>
 3 6 4<br>
-3 6 4 7<br>
-<br>
+3 6 4 7<br><br>
 6<br>
 6 4<br>
-6 4 7<br>
-<br>
+6 4 7<br><br>
 4<br>
-4 7<br>
-<br>
+4 7<br><br>
 7
 
 <br><br>
