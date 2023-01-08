@@ -745,20 +745,16 @@ Test case 1:
 2 4<br>
 2 4 6<br>
 2 4 6 8<br>
-2 4 6 8 10<br>
-<br>
+2 4 6 8 10<br><br>
 4<br>
 4 6<br>
 4 6 8<br>
-4 6 8 10<br>
-<br>
+4 6 8 10<br><br>
 6<br>
 6 8<br>
-6 8 10<br>
-<br>
+6 8 10<br><br>
 8<br>
-8 10<br>
-<br>
+8 10<br><br>
 10<br>
 
 Test case 2:
